@@ -14,3 +14,5 @@ Check locally: `npm ci && npm run build` (on `static-export`, the files land in 
 Staging journey 2026-11-11: a commit to cancel its build.
 
 Staging journey 2026-11-11: a commit to watch the build log while it runs.
+
+Staging journey: a commit to check the project version beside the Release (plan step 9.19).
