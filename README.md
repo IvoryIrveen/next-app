@@ -12,3 +12,5 @@ A Strux real-world test project (docs/REAL_WORLD_TESTS.md in the Strux repositor
 Check locally: `npm ci && npm run build` (on `static-export`, the files land in `out/`).
 
 Staging journey 2026-11-11: a commit to cancel its build.
+
+Staging journey 2026-11-11: a commit to watch the build log while it runs.
